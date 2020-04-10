@@ -1,4 +1,4 @@
-%%	2D IR Analysis
+%%	2D IR Analysis Test git
 %
 %   This script Process, Analyze and Plot 2D data in time domain. 
 %   It takes the EXPERIMENT FILE that contains the list of the data
